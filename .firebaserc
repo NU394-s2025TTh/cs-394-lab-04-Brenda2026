@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "cs-394-triplebind"
-  }
+    "default": "cs-394-triplebind-ebefb",
+    "cs-394-triplebind": "cs-394-triplebind-ebefb"
+  },
+  "targets": {},
+  "etags": {}
 }
